@@ -1,7 +1,3 @@
----
-layout: cv
-title: Porter's Resume
----
 
 # Porter Moody
 
