@@ -1,6 +1,3 @@
-# Linear Algebra
-
-
 # Porter Moody
 
 <div id="webaddress">
@@ -12,8 +9,8 @@
 
 ## Education
 
-`Expected Winter 2022`
 __Brigham Young University - Idaho__ | Rexburg, ID | 4.0 GPA
+`Expected Winter 2022`
 
 - Data Science Bachelor's
 - Mathematics Minor
@@ -21,21 +18,18 @@ __Brigham Young University - Idaho__ | Rexburg, ID | 4.0 GPA
 ## Related Experience
 
 __Mutual fund capital gains estimate scraping project__
-
 `Fall 2020 - Spring 2021`
 
 - created python (pandas, selenium, requests) scripts to download files from urls, scrape files, format data pandas, numpy, for insertion into web api
 
 
 __Small business consulting work__
-
 `Winter 2020`
 
 - Created report about Colorado Springs residential housing market in R using dplyr, ggplot2 to map address to coordinates and show leaflet of all current houses for sale. 
 - Created visuals of profit and loss statements showing most successful flips
 
 __Bookkeeper for small business__
-
 `December 2019 - Current`
 
 - Quickbooks keep about 15 checking/note payable accounts up to date each with a constant stream of transactions. 

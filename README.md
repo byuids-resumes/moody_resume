@@ -1,1 +1,1 @@
-Take a gander at <a href="epic_resume" target="_blank">my resume</a>
+Take a gander at <a href="https://byuids-resumes.github.io/moody_resume/article/" target="_blank">my resume</a>
